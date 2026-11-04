@@ -27,6 +27,36 @@
     }
   ],
   "downloads": {
+    "xmb9p": {
+      "version": "0.0.1",
+      "file_name": "downloads/Aisle Sign PRO.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持"
+        },
+        {
+          "version": "0.0.1",
+          "content": "修复点击吊牌上半或下半时，仅半块吊牌摆动的问题。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "0.0.1",
+      "file_name": "downloads/Aisle Sign PRO.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持"
+        },
+        {
+          "version": "0.0.1",
+          "content": "修复点击吊牌上半或下半时，仅半块吊牌摆动的问题。"
+        }
+      ]
+    },
     "xmb10": {
       "version": "0.0.0",
       "file_name": "downloads/Aisle Sign.face",
@@ -46,28 +76,6 @@
       "version": "0.0.0",
       "file_name": "downloads/Aisle Sign.face",
       "versionCode": 0
-    },
-    "xmb9p": {
-      "version": "0.0.0",
-      "file_name": "downloads/Aisle Sign PRO.face",
-      "versionCode": 0,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增小米手环 9 Pro / 10 Pro 支持"
-        }
-      ]
-    },
-    "xmb10p": {
-      "version": "0.0.0",
-      "file_name": "downloads/Aisle Sign PRO.face",
-      "versionCode": 0,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增小米手环 9 Pro / 10 Pro 支持"
-        }
-      ]
     },
     "xmrw6": {
       "version": "0.0.0",
